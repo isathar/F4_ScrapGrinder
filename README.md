@@ -1,6 +1,6 @@
 # F4_ScrapGrinder
 
-A Fallout 4 mod that adds a workbench that breaks down misc items into their base components
+A Fallout 4 mod. Adds a workbench that breaks down misc items into their base components
 
 -------------------------------------------------------------------------------------------------------
 
@@ -10,7 +10,7 @@ Also available on Bethesda.net:
 
 -------------------------------------------------------------------------------------------------------
 
-##Instructions
+## Instructions
 
 - Download from the releases tab, extract to Fallout4\\Data\\
 - Enable the plugin (ScrapGrinder.esp) in whatever mod manager you use.
@@ -20,21 +20,21 @@ Also available on Bethesda.net:
 - Use the scrapping bench (Press E) and select where you want to send its output through the crafting menu.
 
 
-##Installation
+## Installation
 
 - Use NMM or extract ScrapGrinder.esp and the Scripts folder to your Data folder.
 - Activate ScrapGrinder.esp using your preferred method.
 - the docs folder includes the source files for the scripts used by this mod for anyone that's curious how it works.
 
 
-##Updating
+## Updating
 
 - Uninstall any previous version.
 - A clean save is probably required to update to v0.9 without issues.
 - It's probably best to scrap and rebuild any workbenches created with previous versions before uninstalling version prior to 0.9.
 
 
-##Notes
+## Notes
 
 - Only works for default components for now.
     - This only affects new components. Mods that change component amounts are fully compatible.
@@ -43,4 +43,4 @@ Also available on Bethesda.net:
 
 -------------------------------------------------------------------------------------------------------
 Mod licensing info: (the software being Fallout 4)
-*THIS MATERIAL IS NOT MADE, GUARANTEED OR SUPPORTED BY THE PUBLISHER OF THE SOFTWARE OR ITS AFFILIATES.*
+-*THIS MATERIAL IS NOT MADE, GUARANTEED OR SUPPORTED BY THE PUBLISHER OF THE SOFTWARE OR ITS AFFILIATES.*
