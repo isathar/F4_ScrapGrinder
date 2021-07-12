@@ -10,20 +10,18 @@ Also available on Bethesda.net:
 
 -------------------------------------------------------------------------------------------------------
 
-## Instructions
-
-
-- Enable the plugin (ScrapGrinder.esp) in whatever mod manager you use.
-- Build a scrapping bench in one of your settlements. It is found in the Crafting section of the Workshop menu.
-- There should be a footlocker named "Scrap Container" on top of the workbench. Place any junk items you want to scrap in this container.
-    - Non-Junk items will be returned to you as you add them.
-- Use the scrapping bench (Press E) and select where you want to send its output through the crafting menu.
-
-
 ## Installation
 
 - Download from the releases tab or bethesda.net, extract the esp and ba2 files to Fallout4\\Data\\
 - Activate ScrapGrinder.esp using your preferred method.
+
+
+## Instructions
+
+- Build a scrapping bench in one of your settlements. It is found in the Crafting section of the Workshop menu.
+- There should be a footlocker named "Scrap Container" on top of the workbench. Place any junk items you want to scrap in this container.
+    - Non-Junk items will be returned to you as you add them.
+- Use the scrapping bench (Press E) and select where you want to send its output through the crafting menu.
 
 
 ## Updating
