@@ -3,7 +3,10 @@
 A Fallout 4 mod that adds a workbench that breaks down misc items into their base components
 
 -------------------------------------------------------------------------------------------------------
-Also available on Bethesda.net: https://bethesda.net/en/mods/fallout4/mod-detail/752956
+
+Also available on Bethesda.net:
+- PC: https://bethesda.net/en/mods/fallout4/mod-detail/752956
+- XB1: https://bethesda.net/en/mods/fallout4/mod-detail/4223999
 
 -------------------------------------------------------------------------------------------------------
 
