@@ -4,9 +4,11 @@ A Fallout 4 mod. Adds a workbench that breaks down misc items into their base co
 
 -------------------------------------------------------------------------------------------------------
 
-Also available on Bethesda.net:
-- PC: https://bethesda.net/en/mods/fallout4/mod-detail/752956
-- XB1: https://bethesda.net/en/mods/fallout4/mod-detail/4223999
+- Also available on Bethesda.net:
+	- PC: https://bethesda.net/en/mods/fallout4/mod-detail/752956
+	- XB1: https://bethesda.net/en/mods/fallout4/mod-detail/4223999
+- and ModDB:
+	- https://www.moddb.com/mods/scrap-grinder
 
 -------------------------------------------------------------------------------------------------------
 
